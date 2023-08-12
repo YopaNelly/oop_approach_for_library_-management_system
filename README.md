@@ -1,7 +1,8 @@
 # OOP Approach for Library Management System
 
 ## Description
-The Library Management System is a program that allows users to manage books in a library. It provides various functionalities such as adding, deleting, searching, and displaying books. The system also supports file handling for saving and loading book data. Additional features include book borrowing and returning, book statistics calculation, book reports generation, and user management. The program follows an object-oriented approach and is implemented using python.
+The Library Management System is a program that allows users to manage books in a library. It provides various functionalities such as adding, deleting, searching, and displaying books. The system also supports file handling for saving and loading book data. Additional features include book borrowing and returning, book statistics calculation, book reports generation, and user management. The program follows an object-oriented approach and is implemented using python. sample design <a href="https://github.com/YopaNelly/oop_approach_for_library_-management_system/blob/main/Screenshot%20from%202023-08-12%2008-52-16.png"> here</h>
+
 
 ## Table of Contents
 - [Installation](#installation)
