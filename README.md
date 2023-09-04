@@ -18,7 +18,7 @@ The Library Management System is a program that allows users to manage books in 
 2. Ensure you python3.x installed:
 `python3 --version`
 3. Compile the source code using a python compiler.
-`VS code` , `pycharm`  or `Any of your choice`
+`VS code` , `pycharm` or `Any of your choice`
 4. Run the compiled program.
 
 ## Usage
