@@ -15,7 +15,7 @@ The Library Management System is a program that allows users to manage books in 
 1. Clone this repository to your local machine:
 `git clone https://github.com/YopaNelly/oop_approach_for_library_-management_system.git`
 
-2. Ensure you python3.x installed:
+2. Ensure you python3.x  installed:
 `python3 --version`
 3. Compile the source code using a python compiler.
 `VS code` , `pycharm` or `Any of your choice`
